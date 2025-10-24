@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Mobile Developer',
+	title: 'João Pedro - Mobile Developer Portfolio',
 	description:
 		'Welcome to my portfolio! I am a passionate mobile developer crafting beautiful and performant apps for iOS and Android. Specializing in native and cross-platform development, I create engaging mobile experiences that users love.',
 	keywords: [
@@ -33,22 +33,22 @@ export const metadata: Metadata = {
 		'Mobile Architecture',
 		'[Your Name]',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'João Pedro Ianke B. de Lima' }],
+	creator: 'João Pedro',
 	openGraph: {
-		title: '[Your Name] - Mobile Developer Portfolio',
+		title: 'João Pedro - Mobile Developer',
 		description: 'Passionate mobile developer creating exceptional iOS and Android applications. Explore my projects and app development expertise.',
-		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		url: 'https://portifolio-cjz6f2knm-mrmaxell12s-projects.vercel.app',
+		siteName: 'João Pedro Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Mobile Developer Portfolio',
+				alt: 'João Pedro - Mobile Developer Portfolio',
 			},
 		],
-		locale: 'en_US',
+		locale: 'pt_BR',
 		type: 'website',
 	},
 	twitter: {
