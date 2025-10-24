@@ -10,7 +10,7 @@ interface Process {
 		gradientTo: string;
 		hoverBorder: string;
 	};
-	icon: JSX.Element;
+	icon: React.JSX.Element;
 	steps: string[];
 }
 
