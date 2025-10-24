@@ -18,10 +18,10 @@ const processes: Process[] = [
 	{
 		title: 'Ideation & Planning',
 		colorClasses: {
-			bg: 'bg-blue-500/10',
-			text: 'text-blue-400',
-			gradientFrom: 'from-blue-500',
-			gradientTo: 'to-purple-500',
+			bg: 'bg-red-500/10',
+			text: 'text-white',
+			gradientFrom: 'from-yellow-500',
+			gradientTo: 'to-orange-500',
 			hoverBorder: 'group-hover:border-blue-500/30',
 		},
 		icon: (
